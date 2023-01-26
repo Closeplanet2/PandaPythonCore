@@ -1,0 +1,7 @@
+setup.py
+PandaPythonCore/__init__.py
+PandaPythonCore.egg-info/PKG-INFO
+PandaPythonCore.egg-info/SOURCES.txt
+PandaPythonCore.egg-info/dependency_links.txt
+PandaPythonCore.egg-info/requires.txt
+PandaPythonCore.egg-info/top_level.txt
